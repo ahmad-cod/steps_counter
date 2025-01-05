@@ -1,0 +1,14 @@
+User Story
+"As a user, I want to track steps so that I can monitor my daily activity level."
+
+Features / Requirements
+  What should the counter do?
+    - Display current step count
+    - Increment / Decrement the count
+    - Reset the count
+
+3. UI Components
+  What visual components do i need?
+    - Display area for current count
+    - + / - buttons
+    - reset button
